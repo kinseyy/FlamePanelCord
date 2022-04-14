@@ -1,0 +1,43 @@
+{
+    "welcome": "Hei,",
+    "select_option": "Velg alternativet du vil utføre.",
+
+    "start_app": "FlamePanelCord",
+    "start_desktop": "DATA APP - FlamePanelCord",
+
+    "support": "Hjelp",
+    "settings": "Innstillinger",
+    "update": "Se etter oppdateringer",
+    "language": "Språk",
+    "go_back": "Gå tilbake",
+    "done": "Ferdig!",
+    "exit": "Gå ut",
+
+    "discordserver": "Discord Server",
+    "submit_issue": "Send inn en  feil eller forslag",
+
+    "FlamePanelCord_help":"Start FlamePanelCord inn dit standardnettleser.",
+    "desktop_panel_help": "Start FlamePanelCord appen.",
+    "settings_help": "Innstillinger for FlamePanelCord.",
+    "exit_help": "Gå ut av scripten.",
+    "support_help": "Få hjelp til FlamePanelCord.",
+    "update_help": "Oppdater FlamePanelCord til den nyeste versjon.",
+    "language_help": "Velg et språk til FlamePanelCord",
+    "english_help": "Velg et språk til FlamePanelCord",
+    "go_back_help": "Gå tilbake til valgpanelet.",
+    "discord_help": "Åpne Discord hjelp server link i dit standardnettleser.",
+    "issue_help": "Send inn en feil eller forslag gjennom GitHub.",
+    "get_help": "Få hjelp / støtte for FlamePanelCord:",
+
+    "check_installation": "Sjekk om du har installert FlamePanelCord riktig.",
+    "checking_failure": "Systemkontrollen mislyktes.",
+    "checking_system": "Kontrollerer FlamePanelCord-systemet ...",
+    "check_success": "Systemkontroll vellykket.",
+    "updating": "Oppdaterer FlamePanelCord ...",
+    "updating_failure": "Kan ikke oppdatere FlamePanelCord, feil under oppdatering av FlamePanelCord.",
+    "check_index": "Sjekk om index.html eksisterer.",
+    "check_main": "Sjekk om main.js eksisterer.",
+    "check_repo_download_method": "Klon 'Repository' og prøv igjen.",
+    "booting": "Starter opp FlamePanelCord ..."
+}
+

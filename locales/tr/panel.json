@@ -1,0 +1,41 @@
+{
+    "welcome": "Merhaba,",
+    "select_option": "Gerçekleştirmek istediğin işlemi seç.",
+
+    "start_web": "WEB - FlamePanelCord",
+    "start_desktop": "MASAÜSTÜ UYGULAMASI - FlamePanelCord",
+
+    "support": "Destek",
+    "settings": "Ayarlar",
+    "update": "Güncellemeleri Denetle",
+    "language": "Dil",
+    "go_back": "Geri Git",
+    "done": "Tamamlandı!",
+    "exit": "Çık",
+
+    "discordserver": "Discord Sunucusu",
+    "submit_issue": "Bir sorun/Hata Raporu/Öneri gönder.",
+
+    "FlamePanelCord_help":"Varsayılan tarayıcında FlamePanelCord'i çalıştır.",
+    "desktop_panel_help": "FlamePanelCord Masaüstü uygulamasını çalıştır.",
+    "settings_help": "FlamePanelCord ayarlarını aç.",
+    "exit_help": "Bu komut dosyasından çık.",
+    "support_help": "FlamePanelCord için destek al.",
+    "update_help": "FlamePanelCord'i mevcut en son sürüme güncelle.",
+    "language_help": "FlamePanelCord için bir dil seç",
+    "go_back_help": "Seçim paneline geri dön.",
+    "discord_help": "Varsayılan tarayıcıda Discord destek sunucusu bağlantısını aç.",
+    "issue_help": "Github üzerinden bir Sorun/Hata Raporu/Öneri gönder.",
+    "get_help": "FlamePanelCord için destek/yardım al:",
+
+    "check_installation": "FlamePanelCord'in doğru yüklenip yüklenmediğini kontrol et.",
+    "checking_failure": "Sistem kontrolü başarısız oldu.",
+    "checking_system": "FlamePanelCord sistemi kontrol ediliyor ...",
+    "check_success": "Sistem kontrolü başarılı.",
+    "updating": "FlamePanelCord güncelleniyor ...",
+    "updating_failure": "FlamePanelCord güncellenemiyor, FlamePanelCord güncellenirken bir hata meydana geldi.",
+    "check_index": "İndex.html'in mevcut olup olmadığını kontrol et.",
+    "check_main": "main.js'in mevcut olup olmadığını kontrol et.",
+    "check_repo_download_method": "Depoyu klonla ve tekrar dene.",
+    "booting": "FlamePanelCord başlatılıyor ..."
+}

@@ -1,0 +1,43 @@
+{
+    "welcome": "Hola,",
+    "select_option": "Seleccione la opción que le gustaría realizar.",
+
+    "start_app": "FlamePanelCord",
+    "start_desktop": "APLICACIÓN DE ESCRITORIO - FlamePanelCord",
+
+    "support": "Soporte",
+    "settings": "Configuraciones",
+    "update": "Buscar actualizaciones",
+    "language": "Idioma",
+    "go_back": "Regresar",
+    "done": "Hecho",
+    "exit": "Salir",
+
+    "discordserver": "Servidor de Discord",
+    "submit_issue": "Envíe un problema / informe de error / sugerencia",
+
+    "FlamePanelCord_help":"Inicie FlamePanelCord en su navegador predeterminado.",
+    "desktop_panel_help": "Inicie la aplicación de escritorio FlamePanelCord.",
+    "settings_help": "Abrir la configuración para FlamePanelCord.",
+    "exit_help": "Salga de este script.",
+    "support_help": "Obtenga soporte para FlamePanelCord.",
+    "update_help": "Actualice FlamePanelCord a la última versión disponible.",
+    "language_help": "Elija un idioma para FlamePanelCord",
+    "english_help": "Elija un idioma para FlamePanelCord",
+    "go_back_help": "Vuelve al panel de selección.",
+    "discord_help": "Abra el enlace del servidor de soporte de Discord en su navegador predeterminado.",
+    "issue_help": "Envíe un problema / informe de error / sugerencia a través de GitHub.",
+    "get_help": "Obtenga ayuda / soporte para FlamePanelCord:",
+
+    "check_installation": "Compruebe si ha instalado FlamePanelCord correctamente.",
+    "checking_failure": "La verificación del sistema falló.",
+    "checking_system": "Comprobando el sistema FlamePanelCord ...",
+    "check_success": "Verificación del sistema exitosa.",
+    "updating": "Actualizando FlamePanelCord ...",
+    "updating_failure": "No se puede actualizar FlamePanelCord, error al actualizar FlamePanelCord.",
+    "check_index": "Compruebe si existe index.html.",
+    "check_main": "Compruebe si existe main.js.",
+    "check_repo_download_method": "Clone el repositorio y vuelva a intentarlo.",
+    "booting": "Arrancando FlamePanelCord ..."
+}
+

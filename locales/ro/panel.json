@@ -1,0 +1,43 @@
+{
+    "welcome": "Buna,",
+    "select_option": "Selectați opțiunea pe care doriți să o efectuați.",
+
+    "start_app": "FlamePanelCord",
+    "start_desktop": "Aplicaţie PC - FlamePanelCord",
+
+    "support": "Ajutor",
+    "settings": "Setări",
+    "update": "Verifică pentru actualizări",
+    "language": "Limba",
+    "go_back": "Întoarce-te",
+    "done": "Terminat!",
+    "exit": "Ieșire",
+
+    "discordserver": "Server Discord",
+    "submit_issue": "Trimiteți o problemă / raport de eroare / sugestie",
+
+    "FlamePanelCord_help":"Porniți FlamePanelCord în browserul dvs. implicit.",
+    "desktop_panel_help": "Porniți aplicația pentru desktop a FlamePanelCord.",
+    "settings_help": "Deschide setari pentru FlamePanelCord.",
+    "exit_help": "Ieșiți din acest script.",
+    "support_help": "Obțineți asistență pentru FlamePanelCord.",
+    "update_help": "Actualizați FlamePanelCord la cea mai recentă versiune disponibilă.",
+    "language_help": "Alegeți o limbă pentru FlamePanelCord",
+    "english_help": "Alegeți o limbă pentru FlamePanelCord",
+    "go_back_help": "Reveniți la panoul de selecție.",
+    "discord_help": "Deschideți linkul serverului de asistență Discord din browserul dvs. implicit.",
+    "issue_help": "Trimiteți o problemă / raport de eroare / sugestie prin GitHub.",
+    "get_help": "Obțineți ajutor / asistență pentru FlamePanelCord:",
+
+    "check_installation": "Verificați dacă ați instalat corect FlamePanelCord.",
+    "checking_failure": "Verificarea sistemului nu a reușit.",
+    "checking_system": "Verificarea sistemului FlamePanelCord ...",
+    "check_success": "Verificarea sistemului a reușit.",
+    "updating": "Se actualizează FlamePanelCord ...",
+    "updating_failure": "Imposibil de actualizat FlamePanelCord, eroare la actualizarea FlamePanelCord.",
+    "check_index": "Verificați dacă există index.html.",
+    "check_main": "Verificați dacă main.js există.",
+    "check_repo_download_method": "Clonați 'Repository' și încercați din nou.",
+    "booting": "Se porneste FlamePanelCord ..."
+}
+

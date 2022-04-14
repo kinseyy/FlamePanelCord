@@ -1,0 +1,43 @@
+{
+    "welcome": "Здравствуйте,",
+    "select_option": "Выберите вариант, который вы хотите выполнить.",
+
+    "start_app": "FlamePanelCord",
+    "start_desktop": "КОМПЬЮТЕРНОЕ ПРИЛОЖЕНИЕ - FlamePanelCord",
+
+    "support": "Поддержка",
+    "settings": "Настройки",
+    "update": "Проверить наличие обновлений",
+    "language": "Язык",
+    "go_back": "Вернись",
+    "done": "Выполнено!",
+    "exit": "Выход",
+
+    "discordserver": "Сервер Discord",
+    "submit_issue": "Отправить сообщение о проблеме / ошибке / предложении",
+
+    "FlamePanelCord_help":"Запустите FlamePanelCord в браузере по умолчанию.",
+    "desktop_panel_help": "Запустите настольное приложение FlamePanelCord.",
+    "settings_help": "Откройте настройки для FlamePanelCord.",
+    "exit_help": "Выйти из этого скрипта.",
+    "support_help": "Получите поддержку для FlamePanelCord.",
+    "update_help": "Обновите FlamePanelCord до последней доступной версии.",
+    "language_help": "Выберите язык для FlamePanelCord",
+    "english_help": "Выберите язык для FlamePanelCord",
+    "go_back_help": "Вернитесь к панели выбора.",
+    "discord_help": "Откройте ссылку сервера поддержки Discord в браузере по умолчанию.",
+    "issue_help": "Отправьте сообщение о проблеме / ошибке / предложении через GitHub.",
+    "get_help": "Получите справку / поддержку для FlamePanelCord:",
+
+    "check_installation": "Проверьте, правильно ли вы установили FlamePanelCord.",
+    "checking_failure": "Ошибка проверки системы.",
+    "checking_system": "Проверка системы FlamePanelCord...",
+    "check_success": "Проверка системы прошла успешно.",
+    "updating": "Обновление FlamePanelCord...",
+    "updating_failure": "Невозможно обновить FlamePanelCord из-за ошибки.",
+    "check_index": "Проверьте, существует ли index.html.",
+    "check_main": "Проверьте, существует ли main.js.",
+    "check_repo_download_method": "Клонируйте репозиторий и попробуйте еще раз.",
+    "booting": "Загрузка FlamePanelCord..."
+}
+

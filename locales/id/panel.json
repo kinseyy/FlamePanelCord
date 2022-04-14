@@ -1,0 +1,42 @@
+{
+    "welcome": "Hallo,",
+    "select_option": "Pilih opsi yang anda ingin lakukan.",
+
+    "start_app": "FlamePanelCord",
+    "start_desktop": "APLIKASI DESKTOP - FlamePanelCord",
+
+    "support": "Mendukung",
+    "settings": "Pengaturan",
+    "update": "Memeriksa Pembaruan",
+    "language": "Bahasa",
+    "go_back": "Kembali",
+    "done": "Selesai!",
+    "exit": "Keluar",
+
+    "discordserver": "Server Discord.",
+    "submit_issue": "Kirim masalah/Laporan Bug/Saran",
+
+    "FlamePanelCord_help":"Mulai FlamePanelCord di browser default Anda.",
+    "desktop_panel_help": "Mulai aplikasi Desktop FlamePanelCord.",
+    "settings_help": "Buka Pengaturan untuk FlamePanelCord",
+    "exit_help": "Keluar dari skrip ini.",
+    "support_help": "Dapatkan Dukungan untuk FlamePanelCord.",
+    "update_help": "Perbarui FlamePanelCord untuk pembaruan yang ada.",
+    "language_help": "Pilih bahasa untuk FlamePanelCord",
+    "go_back_help": "Kembali ke panel pilihan.",
+    "discord_help": "Buka tautan server dukungan Discord di browser default Anda.",
+    "issue_help": "Kirim Masalah/Laporan Bug/Saran di GitHub.",
+    "get_help": "Get Help/Support for FlamePanelCord:",
+
+    "check_installation": "Cek kalau kamu sudah menginstall FlamePanelCord dengan benar.",
+    "checking_failure": "Sistem cek gagal.",
+    "checking_system": "Mengecek FlamePanelCord Sistem ...",
+    "check_success": "Sistem cek Selesai.",
+    "updating": "Memperbarui FlamePanelCord ...",
+    "updating_failure": "Tidak dapat memperbarui FlamePanelCord, Kesalahan saat memperbarui FlamePanelCord.",
+    "check_index": "Cek bahwa index.html ada.",
+    "check_main": "Cek bahwa main.js ada.",
+    "check_repo_download_method": "Kloning Repositori dan coba lagi.",
+    "booting": "Mengeboot FlamePanelCord ..."
+}
+

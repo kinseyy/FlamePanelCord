@@ -1,0 +1,42 @@
+{
+    "welcome": "Willkommen,",
+    "select_option": "Waehle aus, was du machen moechtest.",
+
+    "start_app": "FlamePanelCord",
+    "start_desktop": "DESKTOP APP - FlamePanelCord",
+
+    "support": "Hilfe/Support",
+    "settings": "Einstellungen",
+    "update": "Nach Updates suchen",
+    "language": "Sprache",
+    "go_back": "Zurueck",
+    "done": "Fertig!",
+    "exit": "Schliessen",
+
+    "discordserver": "Discord Server",
+    "submit_issue": "Teile uns ein Problem/einen Bug oder einen Vorschlag mit.",
+
+    "FlamePanelCord_help":"FlamePanelCord in deinem Browser Starten.",
+    "desktop_panel_help": "FlamePanelCord als Programm Starten.",
+    "settings_help": "Aktualisiere FlamePanelCord auf die neueste Version.",
+    "exit_help": "Den Skript beenden.",
+    "support_help": "Support für FlamePanelCord anfragen",
+    "update_help": "Aktualisiere FlamePanelCord auf die neueste Version.",
+    "language_help": "Waehle eine Sprache, in der du FlamePanelCord verwenden moechtest.",
+    "english_help": "Choose a Language for FlamePanelCord",
+    "go_back_help": "Zurueck zur Auswahl",
+    "discord_help": "Oeffne den Discord Support Link.",
+    "issue_help": "Melde einen Fehler auf Github!",
+    "get_help": "Support für FlamePanelCord:",
+
+    "check_installation": "Ueberpruefen, ob FlamePanelCord richtig installiert wurde.",
+    "checking_failure": "Systemcheck fehlgeschlagen.",
+    "checking_system": "FlamePanelCord-System wird ueberprueft.",
+    "check_success": "Systemcheck erfolgreich.",
+    "updating": "FlamePanelCord wird aktualisiert...",
+    "updating_failure": "Update fehlgeschlagen.",
+    "check_index": "index.html überprüfen...",
+    "check_main": "main.js überprüfen",
+    "check_repo_download_method": "Klone die Repository nochmal und versuche es erneut.",
+    "booting": "FlamePanelCord wird gestartet..."
+}
